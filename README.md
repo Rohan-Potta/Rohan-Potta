@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Rohan-Potta
-- 👀 I’m interested in almost everything form game dev to python automations
-- 🌱 I’m currently learning some python automations and the backend for a website
-- 📫 How to reach me @Rohan_Potta 
+# Hi, I'm Rohan Potta! Welcome to my GitHub Page 👋  
 
-<!---
-Rohan-Potta/Rohan-Potta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m passionate about automation—whether it’s setting up an on-premise Kubernetes cluster using Ansible or using Python packages like BeautifulSoup to build ML datasets.  
+- My interests span from Machine Learning to DevOps, including Docker, Kubernetes, and CI/CD pipelines.  
+- Beyond tech, I enjoy listening to music, watching anime and TV shows, and discussing all things tech and entertainment.  
+- Feel free to reach out if you’d like to chat about any of these topics or just say hi! 
